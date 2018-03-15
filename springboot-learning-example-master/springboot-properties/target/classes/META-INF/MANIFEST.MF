@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-properties :: Spring boot ￩ﾅﾍ￧ﾽﾮ￦ﾖﾇ￤ﾻ
+ ﾶ
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: springboot
+Build-Jdk: 1.8.0_31
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-p
+ roperties/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
